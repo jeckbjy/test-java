@@ -23,3 +23,7 @@
 hs_err_pid*
 .idea/
 beam/word-count-beam/output/
+beam/word-count-beam/target/
+beam/word-count-beam/.project
+beam/word-count-beam/.classpath
+beam/word-count-beam/.settings/
